@@ -28,3 +28,6 @@ In order to automatically keep tabs on the diff between v1/* and v2/*, we write 
 ## Links
 
 - This convention was first proposed on Oct. 21, 2016 after an architecture review in [App Manager V2: Development Plan -- Google Doc](https://docs.google.com/document/d/1KT3ieIA-RDpIbofKt2RdYnX9-f3qGjwxr6rD9fSThMc/edit#)
+- It was implemented in a series of PRs including
+  - https://github.com/dimagi/commcare-hq/pull/13696
+  - https://github.com/dimagi/commcare-hq/pull/13774
