@@ -10,6 +10,7 @@ Meta:
 Code:
 - [Keeping Code in Sync during a Split](./keeping_code_in_sync.md)
 - [Naming an App Rewrite](./naming_app_rewrites.md)
+- [Let the client code save the model](./let_client_save_model.md)
 
 ## Other guides
 - [JS Guide](https://github.com/dimagi/js-guide)
