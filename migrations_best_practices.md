@@ -11,3 +11,5 @@ afterwards.
 1. Create the ability to run the migration in small batches.
 1. Ensure strict data validation of the assumptions made about the migrating data.
 1. If possible, make migration of the datum atomic and have any error cancel the migration of that datum.
+1. Where possible make migrations idempotent so that it can be re-run without double migrating data.
+1. Resumable migrations are handy for larger migrations since there are almost always something that causes the migrationt to abort early and having to start from the beginning again can be painful.
