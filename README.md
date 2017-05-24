@@ -13,6 +13,9 @@ Code:
 - [Let the client code save the model](./let_client_save_model.md)
 - [Showing Errors to our Users](./error_handling.md)
 
+Processes:
+- [Best practices for migrations](./migrations_best_practices.md)
+
 
 ## Other guides
 - [JS Guide](https://github.com/dimagi/js-guide)
